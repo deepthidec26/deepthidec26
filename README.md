@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Deepthi Raavipati]
+# 👋 Hi, I'm Deepthi Raavipati
 
 🚀 DevOps Engineer | Cloud Enthusiast | Automation Addict  
 
