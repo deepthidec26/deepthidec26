@@ -16,15 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🚀%20About%20Me&fontSize=20&fontAlignY=60" />
 
-Backend Engineer working on **FinTech & healthcare systems**.  
-I build **scalable backend APIs**, **payment platforms**, and **automation tools**.
 
-- ⚙️ FastAPI • PostgreSQL • AWS • ISO 20022  
-- 🤖 Exploring AI / ML & intelligent systems  
-- 💳 Payments, messaging & data validation  
-- 🎮 Gaming | 🍥 Anime  
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🎓%20Certifications&fontSize=20&fontAlignY=60" />
 
