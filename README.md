@@ -55,8 +55,7 @@ I design, build, and maintain scalable, reliable infrastructure. I’m passionat
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
+
+- 📧 Email: deepthi.raavipati@lvtlabs.com
 
 ---
