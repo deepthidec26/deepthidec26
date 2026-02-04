@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;FinTech+%26+Healthcare+Systems;FastAPI+%7C+PostgreSQL+%7C+AWS;ISO+20022+Payments;Exploring+AI%2FML;Gaming+%F0%9F%8E%AE+%7C+Anime+%F0%9F%8D%A5)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps;DataEngineering+%26+Healthcare+Systems;DataFactory+%7C+SQL+%7C+AWS;ISO+20022+Azure;DataBricks;Gaming+%F0%9F%8E%AE+%7C+Anime+%F0%9F%8D%A5)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepthi&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
