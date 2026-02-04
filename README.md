@@ -51,9 +51,6 @@
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
 ![CSV](https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge)
 
-### AI / ML (Exploring)
-![AI](https://img.shields.io/badge/AI%2FML-Exploring-purple?style=for-the-badge)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👋%20Welcome&fontSize=20&fontAlignY=60" />
