@@ -1,55 +1,81 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Deepthi%20Raavipati&fontSize=32&fontAlignY=35" />
-</div>
+# 👋 Hi, I'm [Deepthi Raavipati]
 
-<div align="center">
+🚀 DevOps Engineer | Cloud Enthusiast | Automation Addict  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps;DataEngineering;DataFactory+%7C+SQL+%7C+AWS;Azure;DataBricks)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Deepthi&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
-<div align="center">
+I design, build, and maintain scalable, reliable infrastructure. I’m passionate about automation, cloud-native architectures, and making developers’ lives easier.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🚀%20About%20Me&fontSize=20&fontAlignY=60" />
+## 🧠 About Me
 
-
-
-
-
-<div align="center">
-
-
-
-</div>
+- 🔧 DevOps Engineer with **X+ years** of experience
+- ☁️ Working with **AWS / Azure / GCP**
+- 🧱 Strong believer in **Infrastructure as Code**
+- 🔄 Obsessed with **CI/CD, automation, and reliability**
+- 📈 Focused on scalability, security, and cost optimization
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
+## 🛠️ Tech Stack
 
+### ☁️ Cloud & Platforms
+- AWS (EC2, S3, RDS, EKS, IAM, CloudWatch)
+- Azure / GCP
+- Linux (Ubuntu, Amazon Linux)
 
+### 📦 Containers & Orchestration
+- Docker
+- Kubernetes
+- Helm
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ⚙️ CI/CD
+- GitHub Actions
+- GitLab CI
+- Jenkins
+- Argo CD
 
+### 🧩 Infrastructure as Code
+- Terraform
+- AWS CloudFormation
+- Ansible
 
+### 🔍 Monitoring & Logging
+- Prometheus
+- Grafana
+- ELK Stack
+- Datadog
+
+### 💻 Scripting & Languages
+- Bash
+- Python
+- YAML
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=👋%20Welcome&fontSize=20&fontAlignY=60" />
+## 📂 Featured Projects
 
-<img src="./assets/welcome-michael-scott.gif" width="480" alt="Welcome to my GitHub" />
-<p><em>Welcome to my GitHub 👋</em></p>
+🔹 **[Project Name](https://github.com/username/repo)**  
+> Short description (e.g. Terraform modules for AWS VPC + EKS)
+
+🔹 **[Project Name](https://github.com/username/repo)**  
+> CI/CD pipeline with GitHub Actions and Docker
+
+🔹 **[Project Name](https://github.com/username/repo)**  
+> Kubernetes monitoring using Prometheus & Grafana
 
 ---
 
-</div>
+## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: your.email@example.com
+
+---
