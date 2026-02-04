@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Jayakrishna%20Pavuluri&fontSize=32&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Deepthi%20Raavipati&fontSize=32&fontAlignY=35" />
 </div>
 
 <div align="center">
