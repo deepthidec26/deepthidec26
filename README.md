@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps;DataEngineering;DataFactory+%7C+SQL+%7C+AWS;Azure;DataBricksA5)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps;DataEngineering;DataFactory+%7C+SQL+%7C+AWS;Azure;DataBricks)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepthi&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
