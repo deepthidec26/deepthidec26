@@ -52,25 +52,6 @@ I design, build, and maintain scalable, reliable infrastructure. I’m passionat
 
 ---
 
-## 📂 Featured Projects
-
-🔹 **[Project Name](https://github.com/username/repo)**  
-> Short description (e.g. Terraform modules for AWS VPC + EKS)
-
-🔹 **[Project Name](https://github.com/username/repo)**  
-> CI/CD pipeline with GitHub Actions and Docker
-
-🔹 **[Project Name](https://github.com/username/repo)**  
-> Kubernetes monitoring using Prometheus & Grafana
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
 
 ## 🤝 Connect With Me
 
