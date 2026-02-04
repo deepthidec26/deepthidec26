@@ -36,20 +36,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontAlignY=60" />
 
-### Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Payments & Data
-![ISO20022](https://img.shields.io/badge/ISO_20022-Financial_Messaging-orange?style=for-the-badge)
-![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
-![CSV](https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge)
+
 
 ---
 
