@@ -8,7 +8,7 @@ I design, build, and maintain scalable, reliable infrastructure. I’m passionat
 
 ## 🧠 About Me
 
-- 🔧 DevOps Engineer with **X+ years** of experience
+- 🔧 DevOps Engineer with **5+ years** of experience
 - ☁️ Working with **AWS / Azure / GCP**
 - 🧱 Strong believer in **Infrastructure as Code**
 - 🔄 Obsessed with **CI/CD, automation, and reliability**
