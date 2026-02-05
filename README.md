@@ -37,6 +37,7 @@ I design, build, and maintain scalable, reliable infrastructure. I’m passionat
 ### 🧩 Infrastructure as Code
 - Terraform
 - AWS CloudFormation
+- ARM Templates
 - Ansible
 
 ### 🔍 Monitoring & Logging
